@@ -18,7 +18,7 @@ A Claude Code skill for automating Telegram workflows: digests, channel posting,
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-assistant-skill.git
+git clone https://github.com/BayramAnnakov/telegram-assistant-skill.git
 ```
 
 2. Symlink to Claude skills directory:
